@@ -1,6 +1,6 @@
 class PrimeFactors
 	def generate(numero)
-		factores = 2
+		factores = numero
 		factores
 	end
 end
